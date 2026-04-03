@@ -1,0 +1,14 @@
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.AssemblyInfoInputs.cache
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.AssemblyInfo.cs
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.csproj.CoreCompileInputs.cache
+D:\工作\大二\编程\C#\Demo03\bin\Debug\net8.0\Demo03.exe
+D:\工作\大二\编程\C#\Demo03\bin\Debug\net8.0\Demo03.deps.json
+D:\工作\大二\编程\C#\Demo03\bin\Debug\net8.0\Demo03.runtimeconfig.json
+D:\工作\大二\编程\C#\Demo03\bin\Debug\net8.0\Demo03.dll
+D:\工作\大二\编程\C#\Demo03\bin\Debug\net8.0\Demo03.pdb
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.dll
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\refint\Demo03.dll
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.pdb
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\Demo03.genruntimeconfig.cache
+D:\工作\大二\编程\C#\Demo03\obj\Debug\net8.0\ref\Demo03.dll
