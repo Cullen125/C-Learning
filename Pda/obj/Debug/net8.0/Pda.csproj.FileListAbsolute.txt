@@ -1,0 +1,11 @@
+D:\工作\大二\编程\C#\Pda\bin\Debug\net8.0\Pda.deps.json
+D:\工作\大二\编程\C#\Pda\bin\Debug\net8.0\Pda.dll
+D:\工作\大二\编程\C#\Pda\bin\Debug\net8.0\Pda.pdb
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\Pda.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\Pda.AssemblyInfoInputs.cache
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\Pda.AssemblyInfo.cs
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\Pda.csproj.CoreCompileInputs.cache
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\Pda.dll
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\refint\Pda.dll
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\Pda.pdb
+D:\工作\大二\编程\C#\Pda\obj\Debug\net8.0\ref\Pda.dll
