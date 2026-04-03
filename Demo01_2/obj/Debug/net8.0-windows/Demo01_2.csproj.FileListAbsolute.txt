@@ -1,0 +1,17 @@
+D:\工作\大二\编程\C#\Demo01_2\bin\Debug\net8.0-windows\Demo01_2.exe
+D:\工作\大二\编程\C#\Demo01_2\bin\Debug\net8.0-windows\Demo01_2.deps.json
+D:\工作\大二\编程\C#\Demo01_2\bin\Debug\net8.0-windows\Demo01_2.runtimeconfig.json
+D:\工作\大二\编程\C#\Demo01_2\bin\Debug\net8.0-windows\Demo01_2.dll
+D:\工作\大二\编程\C#\Demo01_2\bin\Debug\net8.0-windows\Demo01_2.pdb
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.Form1.resources
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.csproj.GenerateResource.cache
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.AssemblyInfoInputs.cache
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.AssemblyInfo.cs
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.csproj.CoreCompileInputs.cache
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.dll
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\refint\Demo01_2.dll
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.pdb
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.genruntimeconfig.cache
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\ref\Demo01_2.dll
+D:\工作\大二\编程\C#\Demo01_2\obj\Debug\net8.0-windows\Demo01_2.Form2.resources
